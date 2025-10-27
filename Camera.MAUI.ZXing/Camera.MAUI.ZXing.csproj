@@ -16,12 +16,12 @@
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <Title>Barcode encode/decode pluging for use with Camera.MAUI</Title>
     <Version>1.0.0</Version>
-    <Authors>hjam40</Authors>
+    <Authors>hjam40,germancoines</Authors>
     <Description>A Barcode Endode/Decode control (based on ZXing.Net) for use with Camera.MAUI in  .NET MAUI applications.</Description>
-    <PackageProjectUrl>https://github.com/hjam40/Camera.MAUI</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/germancoines/Camera.MAUI</PackageProjectUrl>
     <PackageReadmeFile>Readme.md</PackageReadmeFile>
     <PackageIcon>camera.maui.png</PackageIcon>
-    <RepositoryUrl>https://github.com/hjam40/Camera.MAUI</RepositoryUrl>
+    <RepositoryUrl>https://github.com/germancoines/Camera.MAUI</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageTags>csharp; dotnet; cross-platform; camera; cameraview; codebar; qr; qr-decoder; codebar-encoder; codebar-decoder; camera-component; camera-view;  plugin; maui; dotnet-maui;</PackageTags>
     <PackageReleaseNotes>First version</PackageReleaseNotes>

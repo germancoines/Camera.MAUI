@@ -18,15 +18,15 @@
     <Title>Camera pluging for .NET MAUI Apps</Title>
     <Description>A Camera View control for .NET MAUI applications.</Description>
 	<Copyright></Copyright>
-    <PackageProjectUrl>https://github.com/hjam40/Camera.MAUI</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/germancoines/Camera.MAUI</PackageProjectUrl>
     <PackageIcon>camera.maui.png</PackageIcon>
     <PackageReadmeFile>Readme.md</PackageReadmeFile>
-    <RepositoryUrl>https://github.com/hjam40/Camera.MAUI</RepositoryUrl>
+    <RepositoryUrl>https://github.com/germancoines/Camera.MAUI</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageTags>csharp; dotnet; cross-platform; camera; cameraview; codebar; qr; qr-decoder; codebar-encoder; codebar-decoder; camera-component; camera-view;  plugin; maui; dotnet-maui;</PackageTags>
-    <Authors>hjam40</Authors>
+    <Authors>hjam40,germancoines</Authors>
     <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
-    <Version>1.5</Version>
+    <Version>2.0.0</Version>
     <PackageReleaseNotes>Split barcode encoder/decoder in a different package. Fix some bugs
 </PackageReleaseNotes>
     <PackageLicenseFile>license.md</PackageLicenseFile>

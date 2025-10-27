@@ -235,7 +235,7 @@ The control has several binding properties for take an snapshot:
   AutoStartRecording="{Binding AutoStartRecording}"/>
   ```
 
-You have a complete example of MVVM in [MVVM Example](https://github.com/hjam40/Camera.MAUI/tree/master/Camera.MAUI.Test/MVVM)
+You have a complete example of MVVM in [MVVM Example](https://github.com/germancoines/Camera.MAUI/tree/master/Camera.MAUI.Test/MVVM)
 
 For barcodes detection, you must set the Camera Control BarCodeDecoder property.
 Enable and Handle barcodes detection with Camera.MAUI.ZXing:
@@ -294,5 +294,5 @@ barcodeImage.BarcodeEncoder = new ZXingBarcodeEncoder();
 ```
 Set the barcode property to generate the image:
 ```csharp
-barcodeImage.Barcode = "https://github.com/hjam40/Camera.MAUI";
+barcodeImage.Barcode = "https://github.com/germancoines/Camera.MAUI";
 ```
